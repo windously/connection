@@ -11,6 +11,7 @@ namespace VNCnanme
         static void Main(string[] args)
         {
             Console.WriteLine("第一次测试，测试第一个项目文件");
+            Console.WriteLine("第一次更改，测试更改");
         }
     }
 }
