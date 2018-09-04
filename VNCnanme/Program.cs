@@ -10,7 +10,7 @@ namespace VNCnanme
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("第一次测试，测试第一个项目文件");
         }
     }
 }
